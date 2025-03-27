@@ -27,7 +27,7 @@ def permutation_cipher(text, key, mode):
 def main():
     """Головна функція програми."""
     while True:
-        print("\nОберіть дію:")
+        print("\n Оберіть дію:")
         print("1. Шифрування")
         print("2. Розшифрування")
         print("3. Вихід")
